@@ -1,0 +1,28 @@
+#header {
+  background: #ccc;
+  float:left;
+  height: 30px;
+  width: 300px
+}
+#header2 {
+  background: #ccc;
+  float: right;
+  height: 30px;
+  width: 300px
+}
+.bigcell {
+  width:200px;
+  height:200px;
+  background: #fff;
+  float: left;
+}
+
+.piccell {
+  width:150px;
+  height: 150px;
+  background: #bbb;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle;
+
+  }
